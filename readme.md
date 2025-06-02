@@ -16,9 +16,10 @@
 6. 프로그램 테스트
 이제 HTML의 용어를 표로 설명하겠습니다.
 
-|약어 |의미 |
-|--------------------------------|
-|HTML |	HyperText Markup Language|
-|CSS |	Cascading Style Sheet|
+| 약어 | 의미 |
+|----------|----------|
+| HTML | HyperText Markup Language |
+| CSS | Cascading Style Sheet |
+
 
 20243086 김정은
